@@ -132,4 +132,6 @@ namespace form_01
 ## for ループ
 - 対象行選択\
     ![image](https://user-images.githubusercontent.com/1501327/184291352-83dc0c32-4f76-4d39-a0b5-56efd5b8f4d5.png)
- 
+- Ctrl+I E\
+    ![image](https://user-images.githubusercontent.com/1501327/184291611-5a4225cf-d092-45b4-875d-92abc54e51be.png)
+
