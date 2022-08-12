@@ -136,7 +136,7 @@ namespace form_01
     ![image](https://user-images.githubusercontent.com/1501327/184291611-5a4225cf-d092-45b4-875d-92abc54e51be.png)
 - 生成コード
     ```cs
-        private void action_Click(object sender, EventArgs e)
+    private void action_Click(object sender, EventArgs e)
     {
 
         for (var i = 0; i < 10; i++)
