@@ -4,3 +4,12 @@
 
 ## クラス作成
 ![image](https://user-images.githubusercontent.com/1501327/184286070-e1ec5188-7e78-49d7-a6f9-ac0a36b0c2c5.png)
+
+```cs
+namespace form_01
+{
+    internal class MyClass
+    {
+    }
+}
+```
