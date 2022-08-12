@@ -5,6 +5,8 @@ namespace form_01;
 public partial class Form1 : Form
 {
 
+    //private MyClass myClass;
+
     public Form1()
     {
         InitializeComponent();
