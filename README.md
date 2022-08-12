@@ -32,7 +32,6 @@ namespace form_01
 
         public string? Title { get; set; }
 
-
     }
 }
 ```
