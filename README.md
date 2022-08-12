@@ -93,3 +93,36 @@ namespace form_01
 
 ## インスタンスメソッド作成
 ![image](https://user-images.githubusercontent.com/1501327/184288808-d0a7cbaa-0417-450c-83ae-8439fbceb769.png)
+```cs
+using System.Diagnostics;
+namespace form_01
+{
+    internal class MyClass
+    {
+        public MyClass()
+        {
+        }
+
+        public string? Title { get; set; }
+
+        private string? myName;
+        public string? Name
+        {
+            get { return myName; }
+            set { myName = value; }
+        }
+
+        internal void StartMessage(string v)
+        {
+            //throw new NotImplementedException();
+            Debug.WriteLine($"DBG:{v}");
+        }
+
+        internal static void print(string v)
+        {
+            //throw new NotImplementedException();
+            Debug.WriteLine($"DBG:{v}");
+        }
+    }
+}
+```
