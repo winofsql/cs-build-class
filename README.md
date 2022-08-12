@@ -126,7 +126,7 @@ namespace form_01
 ```
 
 ![image](https://user-images.githubusercontent.com/1501327/184291193-77e89f2c-5616-460c-a384-df4cc0aa6a29.png)
-## 複数行のループ処理
+## 複数行のブロック処理
 ## for ループ
 - 対象行選択\
     ![image](https://user-images.githubusercontent.com/1501327/184291352-83dc0c32-4f76-4d39-a0b5-56efd5b8f4d5.png)
