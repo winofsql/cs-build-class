@@ -63,3 +63,30 @@ namespace form_01
 
 ## クラスメソッド作成
 ![image](https://user-images.githubusercontent.com/1501327/184287460-eab98f10-10e8-41f4-b403-644535b3c46f.png)
+```cs
+using System.Diagnostics;
+namespace form_01
+{
+    internal class MyClass
+    {
+        public MyClass()
+        {
+        }
+
+        public string? Title { get; set; }
+
+        private string? myName;
+        public string? Name
+        {
+            get { return myName; }
+            set { myName = value; }
+        }
+
+        internal static void print(string v)
+        {
+            //throw new NotImplementedException();
+            Debug.WriteLine($"DBG:{v}");
+        }
+    }
+}
+```
