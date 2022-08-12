@@ -61,3 +61,5 @@ namespace form_01
 ```
 ![image](https://user-images.githubusercontent.com/1501327/184286840-f0064165-2462-4684-8253-5dd3322646ff.png)
 
+## クラスメソッド作成
+![image](https://user-images.githubusercontent.com/1501327/184287460-eab98f10-10e8-41f4-b403-644535b3c46f.png)
