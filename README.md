@@ -37,5 +37,27 @@ namespace form_01
 ```
 
 ## プロパティ作成
+
+```cs
+namespace form_01
+{
+    internal class MyClass
+    {
+        public MyClass()
+        {
+        }
+
+        public string? Title { get; set; }
+
+        private string? myName;
+        public string? Name
+        {
+            get { return myName; }
+            set { myName = value; }
+        }
+
+    }
+}
+```
 ![image](https://user-images.githubusercontent.com/1501327/184286840-f0064165-2462-4684-8253-5dd3322646ff.png)
 
