@@ -92,4 +92,4 @@ namespace form_01
 ```
 
 ## インスタンスメソッド作成
-![image](https://user-images.githubusercontent.com/1501327/184288779-96973a0a-deaf-444a-b3a7-272cc3393827.png)
+![image](https://user-images.githubusercontent.com/1501327/184288808-d0a7cbaa-0417-450c-83ae-8439fbceb769.png)
