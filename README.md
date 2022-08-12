@@ -14,3 +14,6 @@ namespace form_01
     }
 }
 ```
+
+## コンストラクタ作成
+![image](https://user-images.githubusercontent.com/1501327/184286277-013d7bf1-b858-4814-8aca-f0ca73202b15.png)
