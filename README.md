@@ -125,24 +125,13 @@ namespace form_01
 }
 ```
 
-![image](https://user-images.githubusercontent.com/1501327/184291193-77e89f2c-5616-460c-a384-df4cc0aa6a29.png)
 ## 複数行のブロック処理
 ## for ループ
 - 対象行選択\
-    ![image](https://user-images.githubusercontent.com/1501327/184291352-83dc0c32-4f76-4d39-a0b5-56efd5b8f4d5.png)
-- Ctrl+I E\
-    ![image](https://user-images.githubusercontent.com/1501327/184291611-5a4225cf-d092-45b4-875d-92abc54e51be.png)
+    ![image](https://user-images.githubusercontent.com/1501327/184294491-a8e99c68-ea5d-4b04-be31-0a59fbd6b002.png)
+- Ctrl+.(ドット)\
+    ![image](https://user-images.githubusercontent.com/1501327/184294606-5489ef89-1038-41d3-a753-45e681419a34.png)
+- 選択\
+    ![image](https://user-images.githubusercontent.com/1501327/184294700-458e9c19-51a1-436b-8fe7-889cafb4dc7b.png)
 - 生成コード
-    ```cs
-    private void action_Click(object sender, EventArgs e)
-    {
-
-        for (var i = 0; i < 10; i++)
-        {
-            Debug.WriteLine("DBG:こんにちは世界");
-
-            MyClass.print("デバッグ用");
-        }
-
-    }
-    ```
+    ![image](https://user-images.githubusercontent.com/1501327/184294844-bd23f85b-f12a-4d3c-89d6-719a499e7577.png)
