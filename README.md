@@ -34,7 +34,7 @@ namespace form_01
 }
 ```
 
-## プロパティ作成
+## プロパティ作成( **propfull** )
 
 ```cs
 namespace form_01
