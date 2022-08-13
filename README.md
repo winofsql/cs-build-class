@@ -16,7 +16,7 @@ namespace form_01
 ## コンストラクタ作成
 ![image](https://user-images.githubusercontent.com/1501327/184286277-013d7bf1-b858-4814-8aca-f0ca73202b15.png)
 
-## 自動プロパティ作成
+## 自動プロパティ作成( prop )
 ![image](https://user-images.githubusercontent.com/1501327/184286512-4eee171d-7530-4887-8cf3-be83329fbbdb.png)
 
 ```cs
